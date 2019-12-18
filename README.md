@@ -18,6 +18,8 @@
 
 * 也学会将Web应用部署到pythonanywhere上，例如[颜色选择器](http://shuken7418.pythonanywhere.com/)
 
+* 等等
+
 ## 四、学习态度
 
 * 愿意花时间学习，花精力完成学习作业；
